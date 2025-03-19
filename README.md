@@ -2,14 +2,14 @@
 
 ## \#Part 1: Introduction to Software Engineering
 
-1.Explain what software engineering is and discuss its importance in the technology industry  
+1. Explain what software engineering is and discuss its importance in the technology industry  
 **software engineering** is a branch of computer science used for developing, testing and maintaining software.  
 **reliability**\- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.   
 **efficiency** \- it helps to optimize developer workflow while maintaining high quality standards.  
  **scalability and flexibility** \- it ensures that the system can handle an increased load without affecting performance.  
  **security** \- implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
-2.Identify and describe at least three key milestones in the evolution of software engineering.    
+2. Identify and describe at least three key milestones in the evolution of software engineering.    
 .mastering complexity - (1960s–1970s) – The Software Crisis
 In the 1960s, as software systems grew more complex, traditional programming methods became inefficient. The "Software Crisis" emerged due to the increasing difficulty in developing, managing, and maintaining large-scale software.  
 .mastering process - (1980s–1990s) – Software Development Methodologies
@@ -17,14 +17,14 @@ As software projects grew in scale and complexity, there was a need for better m
 .mastering machine - (2000s–Present) – Automation and AI in Software Development
 With the rise of automation, cloud computing, and artificial intelligence, software engineering has evolved to optimize development and deployment.
 
-List and briefly explain the phases of the Software Development Life Cycle.  
+3. List and briefly explain the phases of the Software Development Life Cycle.  
  **planning** \- identify the software requirement or purpose and scope.  
  **requirement** **analysis** \- identify the final user specification.   
 **design** \- building the framework.   
 **coding** \- converting software design into tangible code.  
  **testing** \- examine the software for any bugs and glitches
    
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.  
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.  
 **waterfall methodology** \- Linear and sequential, each phase is completed before moving on.   
 \- there is Low flexibility,  
  changes are hard to incorporate once a phase is complete.  
@@ -36,7 +36,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 \- Regular customer feedback is incorporated into every sprint.   
 \- Testing is continuous and done after each iteration.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.  
+5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.  
 **Software Developer** \- developing applications,programs and systems using programming languages and frameworks.  
  \- maintaining and updating software to keep it functional.   
 \- collaborating with other team members to ensure best practice when developing software.  
@@ -52,7 +52,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
  \- tracking and communicating information regarding the project milestone.  
  \- deliver the complete software to the client and regularly check its performance.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.  
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.  
 An **integrated development environment** (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)  
 importance:
 
@@ -75,7 +75,7 @@ importance:
 
 **Error Recovery:** Allows reverting to previous versions if new changes introduce errors
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.  
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.  
 \-**rapid technological advancement** places considerable pressure on software engineers to stay current.  
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. \-  
 **Time Constraints** \- Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.  
@@ -93,7 +93,7 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 
 Solution: Use scalable architecture, Emphasize reliability.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.  
+8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.  
 **Unit tests** \- are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. \- it ensures that each unit performs its intended function correctly, isolated from other components.  
  **Integration tests** \- verify that different modules or services used by your application work well together.  
  \- help to ensure data flows smoothly between modules and interfaces work as expected.  
